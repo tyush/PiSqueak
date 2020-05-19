@@ -1,0 +1,3 @@
+Hey! This isn't a requirements list you can pop into pip! PySerial requires installation from either source or a package based on your distribution.
+
+pyserial
